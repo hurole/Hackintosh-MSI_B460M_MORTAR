@@ -1,5 +1,6 @@
 # Hackintosh-MSI_B460M_MORTAR
 ## 1. 简介
+- OC版本0.7.3
 - 主板：微星B460M迫击炮
 - CPU：i5 10400
 - 显卡：讯景RX560 4G黑狼版，刷的蓝宝石驱动(需要驱动可以提issues)
