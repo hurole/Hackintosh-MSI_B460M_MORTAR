@@ -9,6 +9,6 @@
 ## 2. 支持
 - 支持OC引导GUI
 - 睡眠正常
-- 以太网正常，未安装网卡。intel网卡驱动可github可搜索* itlwm *
+- 以太网正常，未安装网卡。intel网卡驱动可github可搜索**itlwm**
 - 硬件加速正常
 - USB正常
