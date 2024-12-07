@@ -14,3 +14,7 @@
 ## 更新记录
 
 详见 [Releases](https://github.com/hurole/Hackintosh-MSI_B460M_MORTAR/releases)
+
+## 声明
+
+已经转白果 Macmini m4，本 EFI 不再维护了。苹果的 8G 内存和 256G 硬盘都相当于 1500块，买最丐版的 16+256 相当于买内存和硬盘送主机😂
